@@ -8,21 +8,21 @@
 </p>
 <p align="center">
   <a href="https://github.com/TroJanzHEX/Image-Editor/stargazers">
-    <img src="https://img.shields.io/github/stars/TroJanzHEX/Image-Editor?style=social">
+    <img src="https://img.shields.io/github/stars/prabhasha-p/Image-Editor?style=social">
 
   </a>
   
-  <a href="https://github.com/TroJanzHEX/Image-Editor/fork">
-    <img src="https://img.shields.io/github/forks/TroJanzHEX/Image-Editor?label=Fork&style=social">
+  <a href="https://github.com/prabhasha-p/Image-Editor/fork">
+    <img src="https://img.shields.io/github/forks/prabhasha-p/Image-Editor?label=Fork&style=social">
 
   </a>  
 </p>
 
-[![TroJanz](https://img.shields.io/badge/TroJanzHEX-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/TroJanzHEX)  
+[![TroJanz](https://img.shields.io/badge/HiTech Rocket-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/HiTechRocket)  
 ㅤㅤㅤㅤㅤㅤㅤ  
-[![TroJanz](https://img.shields.io/badge/TroJanzHEX-Support-red?style=flat&logo=telegram)](https://telegram.dog/TroJanzSupport)  [![TroJanz](https://img.shields.io/badge/TroJanzHEX-Website-red?style=flat&logo=CodersRank)](https://TroJanzHEX.me)  
+[![TroJanz](https://img.shields.io/badge/HiTech Rocket-Support-red?style=flat&logo=telegram)](https://telegram.dog/HiTechRocketSupport)  [![TroJanz](https://img.shields.io/badge/HiTech Rocket-Website-red?style=flat&logo=CodersRank)](https://HiTechRocket.webnode.com)  
 ㅤㅤㅤㅤㅤㅤㅤ  
-[![MIT license](https://img.shields.io/badge/License-MIT-blue?style=flat)](https://github.com/TroJanzHEX/Image-Editor/blob/main/COPYING)  [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/TroJanzHEX/Image-Editor)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue?style=flat)](https://github.com/Prabhasha-p/Image-Editor/blob/main/COPYING)  [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Prabhasha-p/Image-Editor)
 
 
 
@@ -34,11 +34,11 @@
 ## Installation
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TroJanzHEX/Image-Editor)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/prabhasha-p/Image-Editor)
 
 ### Deploy in your vps
 ```sh
-git clone https://github.com/TroJanzHEX/Image-Editor
+git clone https://github.com/prabhasha-p/Image-Editor
 cd Image-Editor
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
@@ -48,8 +48,8 @@ python3 bot.py
 ## Configs
 
 * TG_BOT_TOKEN  - Get bot token from @BotFather
-* APP_ID        - From my.telegram.org (or @UseTGXBot)
-* API_HASH      - From my.telegram.org (or @UseTGXBot)
+* APP_ID        - From my.telegram.org 
+* API_HASH      - From my.telegram.org 
 * RemoveBG_API  - From [RemoveBG](https://www.remove.bg/b/background-removal-api)
 
 ## Credits
