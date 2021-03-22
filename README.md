@@ -18,7 +18,7 @@
   </a>  
 </p>
 
-[![TroJanz](https://img.shields.io/badge/HiTech Rocket-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/HiTechRocket)  
+[![TroJanz](https://img.shields.io/badge/HiTech%20Rocket-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/HiTechRocket)  
 ㅤㅤㅤㅤㅤㅤㅤ  
 [![TroJanz](https://img.shields.io/badge/HiTech Rocket-Support-red?style=flat&logo=telegram)](https://telegram.dog/HiTechRocketSupport)  [![TroJanz](https://img.shields.io/badge/HiTech Rocket-Website-red?style=flat&logo=CodersRank)](https://HiTechRocket.webnode.com)  
 ㅤㅤㅤㅤㅤㅤㅤ  
