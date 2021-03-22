@@ -20,7 +20,7 @@
 
 [![TroJanz](https://img.shields.io/badge/HiTech%20Rocket-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/HiTechRocket)  
 ㅤㅤㅤㅤㅤㅤㅤ  
-[![TroJanz](https://img.shields.io/badge/HiTech Rocket-Support-red?style=flat&logo=telegram)](https://telegram.dog/HiTechRocketSupport)  [![TroJanz](https://img.shields.io/badge/HiTech Rocket-Website-red?style=flat&logo=CodersRank)](https://HiTechRocket.webnode.com)  
+[![TroJanz](https://img.shields.io/badge/HiTech%20Rocket-Support-red?style=flat&logo=telegram)](https://telegram.dog/HiTechRocketSupport)  [![TroJanz](https://img.shields.io/badge/HiTech Rocket-Website-red?style=flat&logo=CodersRank)](https://HiTechRocket.webnode.com)  
 ㅤㅤㅤㅤㅤㅤㅤ  
 [![MIT license](https://img.shields.io/badge/License-MIT-blue?style=flat)](https://github.com/Prabhasha-p/Image-Editor/blob/main/COPYING)  [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Prabhasha-p/Image-Editor)
 
