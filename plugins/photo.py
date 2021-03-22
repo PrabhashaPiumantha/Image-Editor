@@ -18,7 +18,7 @@ async def photo(client: Client, message: Message):
                     ],
                     [
                         InlineKeyboardButton(text="Circle 🔴", callback_data="circle"),
-                        InlineKeyboardButton(text="Blur 🔘", callback_data="blur"),
+                        InlineKeyboardButton(text="Blur 💧", callback_data="blur"),
                         InlineKeyboardButton(text="Border 📜", callback_data="border"),
                     ],
                     [
